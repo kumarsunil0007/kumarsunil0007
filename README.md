@@ -6,7 +6,7 @@
 
 :heavy_check_mark: 💞️ I’m looking to collaborate on all kinds of projects ( private as well as open source)
 
-:heavy_check_mark: 📫 you can reach me with my Skype, ( suniltaank786@live.com) and email ( sunil.betasoft@gmail.com).
+:heavy_check_mark: 📫 you can reach me with my Skype - live:suniltaank786
 
 <!---
 kumarsunil0007/kumarsunil0007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
