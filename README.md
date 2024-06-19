@@ -13,4 +13,8 @@ kumarsunil0007/kumarsunil0007 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![Activity Graph](https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake.svg" />
+</picture>
