@@ -18,3 +18,6 @@ You can click the Preview link to take a look at your changes.
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## Host your website on Digital Ocean and get discounts. 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=858ee0541fe8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
