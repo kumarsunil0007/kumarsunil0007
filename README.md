@@ -1,3 +1,4 @@
+
 👋 Hi, I’m @kumarsunil0007
 
 :heavy_check_mark: 👀 I’m interested in developent of mobile apps and websites using various technologies. ( open source as well)
@@ -13,6 +14,9 @@ kumarsunil0007/kumarsunil0007 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+## Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=kumarsunil0007)](https://github.com/ryo-ma/github-profile-trophy)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake.svg" />
@@ -21,3 +25,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Host your website on Digital Ocean and get discounts. 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=858ee0541fe8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+![](https://komarev.com/ghpvc/?username=kumarsunil0007&style=flat-square)
