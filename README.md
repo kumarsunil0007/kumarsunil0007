@@ -17,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 ## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=kumarsunil0007)](https://github.com/ryo-ma/github-profile-trophy)
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarsunil0007&show_icons=true&theme=transparent)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake.svg" />
