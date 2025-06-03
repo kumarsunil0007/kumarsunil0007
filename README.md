@@ -3,7 +3,7 @@
 
 :heavy_check_mark: 👀 I’m interested in developent of mobile apps and websites using various technologies. ( open source as well)
 
-:heavy_check_mark: 🌱 I’m currently learning Flutter to work on latest technology
+:heavy_check_mark: 🌱 I’m available for all type of development, part-time as well as full time basis
 
 :heavy_check_mark: 💞️ I’m looking to collaborate on all kinds of projects ( private as well as open source)
 
