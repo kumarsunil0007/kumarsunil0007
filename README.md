@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="github-snake" src="https://github.com/kumarsunil0007/kumarsunil0007/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## Do you want me to continue support open source project?
+## Do you want me to continue to support open source projects?
 <a href="https://www.buymeacoffee.com/sunilfsdevw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> 
 
 ## Host your website on Digital Ocean and get discounts. 
